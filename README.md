@@ -5,18 +5,18 @@ Desafio Gostack 11 utilizando React e Typescript consumindo API REST com método
 
 Intruções:
 
-# Baixar dependências 
+1- Baixar dependências: 
 ```javascript
-// YARN ADD
+ YARN ADD
 ```
 
-# Executar Fake API
+2- Executar Fake API:
 ```javascript
-//   yarn json-server server.json -p 3333
+   yarn json-server server.json -p 3333
 ```
 
 
-# Executar Front-End
+3- Executar Front-End:
 ```javascript
-//   yarn start
+   yarn start
 ```
