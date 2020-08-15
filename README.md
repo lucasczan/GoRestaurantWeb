@@ -7,7 +7,7 @@ Intruções:
 
 1- Baixar dependências: 
 ```javascript
- yarn add
+ yarn
 ```
 
 2- Executar Fake API:
